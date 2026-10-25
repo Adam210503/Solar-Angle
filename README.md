@@ -2,7 +2,8 @@
 
 An interactive 3D demo that shows how tilting the sun away from "straight on" spreads the same light over a bigger area of a solar panel, so each cell receives less.
 
-**Live demo:** https://adam210503.github.io/Solar-Angle/
+**Live demo:** 
+Mobile: https://adam210503.github.io/Solar-Angle/ 
 
 ## What it shows
 
